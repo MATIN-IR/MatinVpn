@@ -12,3 +12,17 @@ It includes:
 ---
 
 ## 🔧 Project Structure 
+
+MatinVpn/
+├── server/ # Go-based stealth VPN server
+├── panel/ # Django-based admin panel
+├── client/ # Flutter-based client
+├── config/ # Sample configuration files
+├── docs/ # Documentation
+
+bash
+Copy code
+
+## 🚀 Quick Start
+
+See [docs/installation.md](docs/installation.md) for setup instructions
