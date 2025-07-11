@@ -1,0 +1,23 @@
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Go
+/bin/
+/pkg/
+*.exe
+*.out
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Flutter
+build/
+.flutter-plugins
+.pub-cache/
+.pub/
+/ios/Pods/
